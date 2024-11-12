@@ -1,0 +1,123 @@
+* {
+    font-family: var(--bs-body-font-family);
+}
+
+.float-right {
+    float: right;
+}
+
+.bannerimg {
+    width: 960px;
+    height: 450px;
+}
+
+.rentalimg {
+    width: 320px;
+    height: 200px;
+}
+
+.footer-block {
+    background: #21282e none repeat scroll 0 0;
+}
+
+.footer-block h3 strong {
+    color: #00fe65;
+    text-decoration: none;
+}
+
+.footer-block .container {
+    position: relative;
+}
+
+.footer-block li {
+    list-style: outside none none;
+}
+
+.footer-block ul {
+    margin: 0;
+    padding: 0;
+}
+
+.con_footer li {
+    overflow: hidden;
+    padding: 9px 0;
+}
+
+.con_footer {
+    margin: 0;
+    padding: 0;
+}
+
+.con_footer li i {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 32px;
+    color: #21282e;
+    float: left;
+    font-size: 17px;
+    height: 25px;
+    line-height: 25px;
+    margin: 0 14px 0 0;
+    text-align: center;
+    width: 25px;
+}
+
+.footer {
+    color: white;
+}
+
+
+.footer-menu li {
+    line-height: 28px;
+}
+
+.footer-menu li a {
+    color: #c6d0d1;
+    text-decoration: none;
+}
+
+.footer-menu li i {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 20px;
+    color: #21282e;
+    font-size: 15px;
+    height: 14px;
+    line-height: 13px;
+    margin: 0 9px 3px 0;
+    padding: 0 0 0 5px;
+    width: 14px;
+}
+
+.logo {
+    font-size: 200px;
+}
+
+.rightnav {
+    float: right;
+}
+
+.product-img {
+    width: 50px;
+    height: 300px;
+}
+
+.formerror {
+    color: red;
+}
+
+.table {
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.th {
+    background-color: red;
+}
+
+.footer {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
